@@ -70,3 +70,10 @@ F79146C543184E558297776EB62E9B250C5802AE255CB775CC00299B07262661
 ```powershell
 Get-FileHash ".\秋招邮件助手.exe" -Algorithm SHA256
 ```
+
+## 致谢与许可证
+
+本项目基于 [Nikka-ops]二次开发。
+
+原项目版权 © 2026 zph30，遵循 MIT License。
+本项目保留原 MIT 许可证；具体条款见随附的 LICENSE 文件。
