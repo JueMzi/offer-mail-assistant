@@ -1,0 +1,1 @@
+# offer-mail-assistant
