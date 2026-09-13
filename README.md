@@ -6,12 +6,6 @@
 
 秋招邮件助手是一个 Windows 本地桌面工具。它通过 **只读 IMAP** 读取指定邮箱中的招聘邮件，自动归并同一岗位的多封通知，并在浏览器中提供投递状态表、日历、待办、邮件详情和操作日志。
 
-## Release 内容
-
-| 文件 | 用途 |
-| --- | --- |
-| `offer-mail-assistant-v1.0.4.exe` | Windows 单文件桌面程序，无需安装 Python 或 Docker。 |
-| `readme-hero.png` / `readme-workflow.png` | 本说明使用的展示图。 |
 
 ## 它能做什么
 
