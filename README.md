@@ -104,20 +104,6 @@ AI 校正只处理“邮件自动识别”且未被手动编辑接管的记录�
 
 本地配置与数据会继续保留。
 
-## 文件校验
-
-`offer-mail-assistant-v1.0.4.exe` 的 SHA-256：
-
-```text
-4102821C4C1294C5EAC0628BB84A31C8340ECAD63CA99DB789FE3F27B9DC0A3C
-```
-
-可在 PowerShell 中校验：
-
-```powershell
-Get-FileHash ".\offer-mail-assistant-v1.0.4.exe" -Algorithm SHA256
-```
-
 
 ## 致谢与许可证
 
